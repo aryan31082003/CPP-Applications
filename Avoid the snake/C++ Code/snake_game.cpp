@@ -2,8 +2,8 @@
 #include <fstream>
 using namespace std;
 
-const int MAX_ROWS = 20;
-const int MAX_COLS = 20;
+const int MAX_ROWS = 30;
+const int MAX_COLS = 60;
 const char WALL = '#';
 const char EMPTY = ' ';
 const char PLAYER = '^';
@@ -270,4 +270,5 @@ int main() {
 
     return 0;
 }
+
                                                                                      //2K22/CO/102 Aryan Gahlaut
