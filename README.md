@@ -5,8 +5,6 @@ These application are build using C++
     QTv6 GUI framework
     CSV files
 
-  Extract build.zip from the directory.
-
 ## Avoid the snake
   ## Tech stack
     C++
